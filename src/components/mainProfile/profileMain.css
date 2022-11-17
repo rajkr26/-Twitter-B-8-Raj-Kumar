@@ -1,0 +1,141 @@
+
+
+
+.profile-header{
+    display: flex;
+    height: 55px;
+    /* border: 1px solid black; */
+    padding-top: 5px;
+    position: sticky;
+    top: 0px;
+    z-index: 999;
+    background-color: white;
+}
+
+
+.main-cover{
+    /* border: 1px solid black; */
+    height: 300px;
+}
+
+
+ h5{
+    margin-bottom: 0px !important;
+    font-weight: bold;
+}
+
+p{
+    margin-bottom: 0px !important;
+    font-size: small;
+}
+
+.profile-back-btn{
+    width: 6%;
+    height: 75%;
+    /* padding: 2px; */
+    border-radius: 50%;
+    /* border: 1px solid black; */
+    margin-left: 5px;
+    margin-right: 20px;
+    margin-top: 2px;
+    padding-left: 8px;
+    /* padding-bottom: 3px; */
+    padding-top: 5px;
+
+}
+
+.profile-back-btn:hover{
+    background-color: rgb(238, 237, 237);
+}
+
+
+.profile-cover{
+    background-image: url('https://1.bp.blogspot.com/-Mcugp4S1m-U/YA5wkND78kI/AAAAAAAAEm8/VD1b3bpG0aUi1aCoafiaVK62oCKmFn49gCLcBGAsYHQ/w640-h236/bicycle-facebook-cover-photo.jpg');
+    height: 200px;
+    position: relative;
+}
+
+
+.profile-img{
+    width: 160px;
+    height: 160px;
+    border: 4px solid white;
+    border-radius: 50%;
+    left: 24px;
+    position: absolute;
+    bottom: -80px;
+}
+
+
+.follow-btn-container{
+    padding: 24px;
+}
+
+.follow-btn{
+    color: white;
+    background-color: black;
+    border: 1px solid black;
+    height: 36px;
+    padding: 4px 16px;
+    border-radius: 34px;
+}
+
+
+.profile-details{
+    display: flex;
+}
+
+
+.profile-details-container{
+    margin-left: 28px;
+}
+
+.join-date{
+    font-size: medium;
+}
+
+
+.d-flex{
+    margin-top: 10px;
+    /* font-size: medium !important; */
+}
+
+.following{
+    margin-right: 30px;
+    color: rgb(38, 38, 38);
+    font-size: medium;
+}
+
+.d-flex a{
+    text-decoration: none;
+}
+
+
+.d-flex a:hover{
+    color: rgb(38, 38, 38);
+    text-decoration:underline;
+}
+
+.frofile-nav ul {
+    margin-top: 20px;
+    height: 50px;
+    display: flex;
+    /* justify-content: space-between; */
+    width: 100%;
+    padding: 0px;
+    align-items: center;
+    /* justify-content: center; */
+}
+
+
+.frofile-nav{
+    border-bottom: 1px solid lightblue;
+}
+
+
+.frofile-nav ul li{
+    width: 150px;
+    font-weight: bold;
+}
+
+

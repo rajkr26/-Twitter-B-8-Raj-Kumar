@@ -1,0 +1,40 @@
+[{
+    "header":"Trending in Sports",
+    "text":"Cricket",
+    "tweetCount":"50k Tweets"   
+},
+{
+    "header":"Trending in India",
+    "text":"Election",
+    "tweetCount":"30k Tweets"   
+},
+
+{
+    "header":"England won Wt20 2022",
+    "text":"Indian are more happy then England",
+    "tweetCount":"30k Tweets" 
+},
+{
+
+    "header":"Trending in Business",
+    "text":"Elon Musk",
+    "tweetCount":"20k Tweets"   
+},
+{
+    "header":"Trending in USA",
+    "text":"Elon Musk",
+    "tweetCount":"50k Tweets"   
+}
+,
+{
+    "header":"Trending in World",
+    "text":"ICC WorldCup",
+    "tweetCount":"2.4M Tweets"   
+}
+,
+{
+    "header":"Inda lose the semies",
+    "text":"ICC WorldCup",
+    "tweetCount":"6.4M Tweets"   
+}
+]

@@ -1,0 +1,113 @@
+
+
+
+.tweet-container{
+    display: flex;
+    padding: 12px;
+    /* border: 1px solid black; */
+    /* margin-bottom: 5px; */
+    border-bottom: 1px solid rgb(219, 216, 216);
+}
+
+.tweet-container:hover{
+    background-color: rgb(241, 240, 240);
+      cursor: pointer;
+      transition: .3s;
+}
+
+
+.profile-photo-div{
+    width: 9%;
+    /* border: 1px solid black; */
+}
+
+.content-box{
+    width: 87%;
+    padding: 0 12px 0px 12px;
+    /* border: 1px solid black; */
+}
+
+.tweet-footer{
+    font-size: smaller;
+    margin-top: 12px;
+    display: flex;
+    justify-content: space-around;
+    /* background-color: aquamarine; */
+}
+
+img{
+    border-radius: 50%;
+    width: 50px;
+}
+
+.tweet-text{
+    font-size: smaller;
+}
+
+.header a{
+    text-decoration: none;
+    color: rgb(8, 8, 8);
+}
+
+.tweet-footer div svg {
+     
+    /* border: 1px solid red; */
+    padding: 5px;
+    width: 36px;
+    height: 31px;
+    border-radius: 47px;
+    /* background-color: lightgreen; */
+
+}
+
+
+/* .tweet-footer div svg:hover{
+    background-color: rgb(188, 227, 240); */
+/* } */
+
+
+/* .tweet-footer div:hover {
+    color: lightgreen;
+  } */
+
+
+  .re-tweet:hover svg{
+    background-color: rgb(211, 248, 207);
+    fill: rgb(76, 148, 85);
+  }
+
+  .re-tweet:hover{
+    color:  rgb(103, 170, 82);
+  }
+
+
+  .coment:hover svg { 
+    background-color: rgb(211, 243, 252);
+    fill: rgb(113, 162, 179);
+    opacity: 0.8;
+   
+ }
+
+ .coment:hover{
+    color:  rgb(129, 177, 192);
+ }
+
+  .share:hover svg {
+    background-color: rgb(193, 231, 243);
+    fill: rgb(113, 162, 179);
+    opacity: 0.8;
+  }
+
+  .like:hover svg {
+    background-color: rgb(249, 186, 180);
+    fill: rgb(173, 51, 33);
+    opacity: 0.8;
+  }
+
+  .like:hover{
+    color:  rgb(225, 54, 45);
+  }
+    
+  
+
+ 

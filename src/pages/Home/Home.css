@@ -1,0 +1,35 @@
+/* .greet{
+    color:aliceblue;
+    background-color: aqua;
+} */
+
+.homeOption{
+width: 24%;
+/* position: sticky;
+top: 0px; */
+}
+
+
+.FeedOption{
+    width: 52%;
+    border-left: 1px solid lightblue;
+    border-right: 1px solid lightblue;
+}
+
+.LoginOption{
+  width: 32%;
+/* border: 1px solid red; */  
+
+    
+}
+
+.main-container{
+    display: flex;
+    /* border: 1px solid red; */
+    margin-left: 70px;
+    margin-right: 70px;
+    height: 100%;
+    /* background: rgb(213, 143, 143); */
+
+
+}

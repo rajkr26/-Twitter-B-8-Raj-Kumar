@@ -1,0 +1,13 @@
+
+
+
+.Profile-container{
+        width: 52%;
+        border-left: 1px solid lightblue;
+        border-right: 1px solid lightblue;
+        height: 100%;
+    }
+
+    .follow-suggession .sticky-head{
+        position: static !important;
+    }

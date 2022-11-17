@@ -1,0 +1,78 @@
+.card{
+    margin-left: 30px !important;
+    border-radius: 15px !important;
+    margin-top: 10px;
+    /* border: 1px solid rgb(113, 112, 112) !important; */
+    display: flex;
+}
+
+.flw-body{
+    padding: 0px;
+}
+
+.flw-br{
+    background-color: rgb(247, 249, 249);
+    margin-top: 20px;
+}
+
+.sticky-head{
+    position: sticky;
+    top: 10px;
+}
+
+.follow-image{
+    width: 20%;
+    margin-left: 15px;
+    /* border: 1px solid black; */
+}
+
+.flw-height{
+    display: flex;
+    height: 75px;
+    align-items: center;
+}
+
+.flw-height:hover{
+    background-color:  rgb(233, 229, 229) ;
+}
+
+
+.follow-sugg{
+    width: 30%;
+    /* border: 1px solid black; */
+    margin-right: 6px;
+}
+
+
+.follow-text{
+    width: 56%;
+    /* border: 0.5px solid black; */
+}
+
+h6{
+    margin-bottom: 0px;
+}
+
+.follow-foot{
+    border-top: 0.5px solid rgb(208, 207, 207);
+    height: 50px;
+    display: flex;
+    border-bottom-left-radius: 15px !important;
+    border-bottom-right-radius: 15px !important;
+}
+
+.follow-foot:hover{
+    background-color:  rgb(233, 229, 229)
+}
+
+.follow-foot a{
+    margin-top: 10px;
+    margin-left: 18px;
+    text-decoration: none;
+}
+
+.flw-titel{
+    margin-top: 11px;
+    margin-bottom: 9px !important;
+    margin-left: 18px;
+}
