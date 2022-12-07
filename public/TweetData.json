@@ -1,45 +1,55 @@
-[{
+[
+    {  "id":"0",
     "authorName":"Raj kumar",
     "authorImg":"./raj-dp.jpg",
     "text":"FTX meltdown/ransack being tracked in real-time on Twitter",
     "UserName":"@rajAryan",
-    "likes":"56.5k",
+    "likes":0,
     "retweets":"100k",
     "comments":"5k"
 },
-{
-    "authorName":"Bill Gates",
-    "authorImg":"https://pbs.twimg.com/profile_images/1564398871996174336/M-hffw5a_400x400.jpg",
-    "text":"While the last steps are proving to be the toughest, I am optimistic we will eradicate polio. I recently visited @KU_Leuven s Rega Institute where they’re testing preventative medicine – an important step toward a polio-free world.",
-    "UserName":"@billgates",
-    "likes":"16.5k",
-    "retweets":"800k",
-    "comments":"15k"
-},
-{
-    "authorName":"Elon Musk",
-    "authorImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Elon_Musk_Royal_Society_%28crop2%29.jpg/1200px-Elon_Musk_Royal_Society_%28crop2%29.jpg",
-    "text":"Going forward, accounts engaged in parody must include “parody” in their name, not just in bio",
-    "UserName":"@elonmusk",
-    "likes":"26.5k",
-    "retweets":"44k",
-    "comments":"2k"
-},
-{
-    "authorName":"Bill Gates",
-    "authorImg":"https://pbs.twimg.com/profile_images/1564398871996174336/M-hffw5a_400x400.jpg",
-    "text":"I had a great meeting with  @starkwatzinger  to discuss the importance of funding research to address some of the future challenges we face in global health.",
-    "UserName":"@billgates",
-    "likes":"16.5k",
-    "retweets":"800k",
-    "comments":"15k"
-},
-{
+{   "id":"1",
     "authorName":"Virat Kohli",
     "authorImg":"https://pbs.twimg.com/profile_images/1562753500726976514/EPSUNyR3_400x400.jpg",
     "text":"Thank you to all our fans who turned up in huge numbers throughout to support us in the stadiums. Always feel proud to wear this jersey and represent our country 🇮🇳💙",
     "UserName":"@iAmKohli",
-    "likes":"126.5k",
+    "likes":0,
+    "retweets":"100k",
+    "comments":"115k"
+},
+{   "id":"2",
+    "authorName":"Bill Gates",
+    "authorImg":"https://pbs.twimg.com/profile_images/1564398871996174336/M-hffw5a_400x400.jpg",
+    "text":"While the last steps are proving to be the toughest, I am optimistic we will eradicate polio. I recently visited @KU_Leuven s Rega Institute where they’re testing preventative medicine – an important step toward a polio-free world.",
+    "UserName":"@billgates",
+    "likes":0,
+    "retweets":"800k",
+    "comments":"15k"
+},
+{   "id":"3",
+    "authorName":"Elon Musk",
+    "authorImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Elon_Musk_Royal_Society_%28crop2%29.jpg/1200px-Elon_Musk_Royal_Society_%28crop2%29.jpg",
+    "text":"Going forward, accounts engaged in parody must include “parody” in their name, not just in bio",
+    "UserName":"@elonmusk",
+    "likes":0,
+    "retweets":"44k",
+    "comments":"2k"
+},
+{   "id":"4",
+    "authorName":"Bill Gates",
+    "authorImg":"https://pbs.twimg.com/profile_images/1564398871996174336/M-hffw5a_400x400.jpg",
+    "text":"I had a great meeting with  @starkwatzinger  to discuss the importance of funding research to address some of the future challenges we face in global health.",
+    "UserName":"@billgates",
+    "likes":0,
+    "retweets":"800k",
+    "comments":"15k"
+},
+{   "id":"5",
+    "authorName":"Virat Kohli",
+    "authorImg":"https://pbs.twimg.com/profile_images/1562753500726976514/EPSUNyR3_400x400.jpg",
+    "text":"Thank you to all our fans who turned up in huge numbers throughout to support us in the stadiums. Always feel proud to wear this jersey and represent our country 🇮🇳💙",
+    "UserName":"@iAmKohli",
+    "likes":0,
     "retweets":"100k",
     "comments":"115k"
 }]

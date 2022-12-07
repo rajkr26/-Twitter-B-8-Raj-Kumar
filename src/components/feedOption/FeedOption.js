@@ -11,6 +11,7 @@ function Feed (){
 
     const[Trendings, setTrendings] = useState([])
     const[tweet, setTweets] = useState([])
+    const[count, setcount] = useState(0)
        
     useEffect(() => {
         fetch("trendData.json")
@@ -28,6 +29,18 @@ function Feed (){
           });
       }, []);
      
+
+      function Like(params){
+        let likes=tweet[params].likes
+        if(tweet[params].likes===0){
+        tweet[params].likes=1
+        }else{
+          tweet[params].likes=0
+        }
+        setTweets(tweet)
+        console.log(tweet)
+        setcount(count+1)
+      }
 
     return (
             <div>
@@ -69,19 +82,14 @@ function Feed (){
                 </div>
 
 
-           { 
-               Trendings.map(content=>
-                <Trending data ={content}/>
-               )
+            
+             {Trendings.map(content=><Trending data ={content}/>)}
                
-           }
-          
-            { 
-               tweet.map(tweet=>
-                <Tweets data ={tweet}/>  
-               )
+             {tweet.map(tweet=><Tweets data ={tweet}  Like={Like} />) }
+                
                
-            }
+               
+            
             </div>
     )
 }
